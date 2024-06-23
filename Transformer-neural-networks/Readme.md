@@ -22,8 +22,8 @@ The Self-Attention mechanism is a core component of Transformer models. It allow
 
 - **File:** `self_attention.ipynb`
 - **Description:** This file contains an implementation of the self-attention mechanism. It includes the following key operations:
+  - Softmax function   
   - Scaled Dot-Product Attention
-  - Multi-Head Attention
 
 ## Contributing
 - Yash Vishe
