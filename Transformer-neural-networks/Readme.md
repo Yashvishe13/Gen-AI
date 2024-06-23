@@ -26,7 +26,7 @@ The Self-Attention mechanism is a core component of Transformer models. It allow
   - Multi-Head Attention
 
 ## Contributing
-- [Yash Vishe]
+- Yash Vishe
 
 ### Prerequisites
 
