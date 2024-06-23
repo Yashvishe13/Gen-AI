@@ -8,7 +8,7 @@ This repository aims to implement all the components used in Transformer models 
 - [Components](#components)
 - [Self-Attention](#self-attention)
 - [Contributing](#contributing)
-- [License](#license)
+- [Prerequisites](#Prerequisites)
 
 ## Introduction
 
@@ -25,6 +25,9 @@ The Self-Attention mechanism is a core component of Transformer models. It allow
   - Scaled Dot-Product Attention
   - Multi-Head Attention
 
+## Contributing
+- [Yash Vishe]
+
 ### Prerequisites
 
 To run the code in this repository, you need to have Python installed along with the following libraries:
@@ -36,5 +39,4 @@ You can install the required libraries using the following command:
 ```sh
 pip install numpy
 
-## Contributing
-- [Yash Vishe]
+
