@@ -39,4 +39,4 @@ Try it online https://dreammachineai.io/
     ```
 3. Result
 
-   ![WechatIMG4186.jpg](https://s2.loli.net/2024/06/14/cBe9M3kLijZQaYH.jpg)
+   Get 4 separate files of the continuous video, combine them using the merge function provided or video editing software :)
