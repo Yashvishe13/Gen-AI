@@ -1,6 +1,6 @@
-# Dream Machine API
+# Dream Machine API (Extended 25 sec version)
 
-A Python script to generate videos using the Dream Machine API and fetch the latest generated video link.
+A Modified Python script to generate videos using the Dream Machine API and fetch the latest generated video link extended to 25 secs.
 
 
 
@@ -23,8 +23,8 @@ Try it online https://dreammachineai.io/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/danaigc/DreamMachineAPI.git
-    cd DreamMachineAPI
+    git clone https://github.com/Yashvishe13/Gen-AI.git
+    cd Gen-AI/DreamMachineAPI
     pip install -r requirements.txt
     ```
    You need to replace the value of the access_token variable to make sure the project works   
@@ -40,7 +40,3 @@ Try it online https://dreammachineai.io/
 3. Result
 
    ![WechatIMG4186.jpg](https://s2.loli.net/2024/06/14/cBe9M3kLijZQaYH.jpg)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=danaigc/DreamMachineAPI&type=Date)](https://star-history.com/#danaigc/DreamMachineAPI&Date)
