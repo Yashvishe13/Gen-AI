@@ -9,8 +9,6 @@ This project analyzes the importance and interactions of characters throughout t
 - [Graph Analysis](#graph-analysis)
 - [Results](#results)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Percy Jackson series is a popular children's book series that features a rich tapestry of characters and their interactions. This project aims to provide insights into the importance of these characters by analyzing their interactions across the series.
@@ -30,6 +28,16 @@ The extracted relationships were stored as graphs in the `html_files` directory.
 ## Results
 The results of the analysis, including the visualized graphs of character interactions, can be found in the `html_files` directory. These graphs provide insights into the central characters and their roles within the series.
 
+[View the lightening_thiefcommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/lightening_thiefcommunity.html)
+[View the sea_of_monsterscommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/sea_of_monsterscommunity.html)
+[View the titans_cursecommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/titans_cursecommunity.html)
+[View the battle_of_the_labyrinthcommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/battle_of_the_labyrinthcommunity.html)
+[View the the_last_olympiancommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/the_last_olympiancommunity.html)
+[View the son_of_neptunecommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/son_of_neptunecommunity.html)
+[View the mark_of_athenacommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/mark_of_athenacommunity.html)
+[View the house_of_hadescommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/house_of_hadescommunity.html)
+[View the blood_of_olympuscommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/blood_of_olympuscommunity.html)
+
 ## Usage
 To run the project, follow these steps:
 1. Clone the repository:
@@ -48,12 +56,3 @@ To run the project, follow these steps:
 4. Open and execute the following notebooks in order:
     - `knowledge_graph.ipynb`
     - `percy_app.ipynb`
-
-## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) document for more details on our code of conduct and the process for submitting pull requests.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-[View the HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/battle_of_the_labyrinthcommunity.html)
