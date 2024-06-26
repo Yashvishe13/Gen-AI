@@ -29,13 +29,21 @@ The extracted relationships were stored as graphs in the `html_files` directory.
 The results of the analysis, including the visualized graphs of character interactions, can be found in the `html_files` directory. These graphs provide insights into the central characters and their roles within the series.
 
 [View the lightening_thiefcommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/lightening_thiefcommunity.html)
+
 [View the sea_of_monsterscommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/sea_of_monsterscommunity.html)
+
 [View the titans_cursecommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/titans_cursecommunity.html)
+
 [View the battle_of_the_labyrinthcommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/battle_of_the_labyrinthcommunity.html)
+
 [View the the_last_olympiancommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/the_last_olympiancommunity.html)
+
 [View the son_of_neptunecommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/son_of_neptunecommunity.html)
+
 [View the mark_of_athenacommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/mark_of_athenacommunity.html)
+
 [View the house_of_hadescommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/house_of_hadescommunity.html)
+
 [View the blood_of_olympuscommunity HTML file](https://raw.githack.com/Yashvishe13/Gen-AI/main/Graphs/html_files/blood_of_olympuscommunity.html)
 
 ## Usage
