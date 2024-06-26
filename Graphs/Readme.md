@@ -50,8 +50,8 @@ The results of the analysis, including the visualized graphs of character intera
 To run the project, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/percy-jackson-character-analysis.git
-    cd percy-jackson-character-analysis
+    git clone https://github.com/Yashvishe13/Gen-AI.git
+    cd Gen-AI/Graphs
     ```
 2. Install the required dependencies:
     ```bash
@@ -61,6 +61,5 @@ To run the project, follow these steps:
     ```bash
     jupyter notebook
     ```
-4. Open and execute the following notebooks in order:
-    - `knowledge_graph.ipynb`
+4. Open and execute the following notebook:
     - `percy_app.ipynb`
