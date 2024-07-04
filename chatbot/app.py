@@ -12,7 +12,7 @@ from getpass import getpass
 os.environ['GOOGLE_API_KEY'] = os.getenv('GOOGLE_API_KEY')
 ## Langmith tracking
 os.environ["LANGCHAIN_TRACING_V2"]="true"
-os.environ["LANGCHAIN_API_KEY"]="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"
+os.environ["LANGCHAIN_API_KEY"]=""
 
 
 
