@@ -1,0 +1,4 @@
+langchain_google_vertexai
+crewai
+duckduckgo-search
+crewai_tools
