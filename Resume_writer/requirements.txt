@@ -1,0 +1,6 @@
+crewai
+python-dotenv
+crewai[tools]
+duckduckgo-search
+langchain-anthropic
+langchain_google_vertexai==1.0.4
